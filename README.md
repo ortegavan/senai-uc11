@@ -13,16 +13,16 @@ A pasta AtividadeOnline2 contém plano de testes (e seus respectivos casos de te
 
 ## Evidências da execução dos testes
 
-A seguir, vídeos exibindo a execução de cada um dos testes mencionados.
+A seguir, links para os vídeos no YouTube exibindo a execução de cada um dos testes mencionados.
 
 ### Site do SENAI - SP
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LJW0AAbZhZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/LJW0AAbZhZ8/0.jpg)](https://www.youtube.com/watch?v=LJW0AAbZhZ8)
 
 ### GameMania - versão em HTML, CSS e JavaScript
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WjyVGTQr2Iw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/WjyVGTQr2Iw/0.jpg)](https://www.youtube.com/watch?v=WjyVGTQr2Iw)
 
 ### GameMania - versão em Angular
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nE_oQtY6UNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/nE_oQtY6UNg/0.jpg)](https://www.youtube.com/watch?v=nE_oQtY6UNg)
